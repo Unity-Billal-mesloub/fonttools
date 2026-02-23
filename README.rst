@@ -38,7 +38,7 @@ Python 3 `venv <https://docs.python.org/3/library/venv.html>`__ module.
 .. code:: sh
 
     # download the source code to 'fonttools' folder
-    git clone https://github.com/fonttools/fonttools.git
+    git clone https://github.com/Unity-Billal-mesloub/fonttools.git
     cd fonttools
 
     # create new virtual environment called e.g. 'fonttools-venv', or anything you like
@@ -251,7 +251,7 @@ How to make a new release
    careful.
 5) Let the CI build the wheel and source distribution packages and verify both
    get uploaded to the Python Package Index (PyPI).
-6) [Optional] Go to fonttools `Github Releases <https://github.com/fonttools/fonttools/releases>`__
+6) [Optional] Go to fonttools `Github Releases <https://github.com/Unity-Billal-mesloub/fonttools/releases>`__
    page and create a new release, copy-pasting the content of the git tag
    message. This way, the release notes are nicely formatted as markdown, and
    users watching the repo will get an email notification. One day we shall
@@ -292,8 +292,8 @@ Rights Reserved.
 
 Have fun!
 
-.. |CI Build Status| image:: https://github.com/fonttools/fonttools/workflows/Test/badge.svg
-   :target: https://github.com/fonttools/fonttools/actions?query=workflow%3ATest
+.. |CI Build Status| image:: https://github.com/Unity-Billal-mesloub/fonttools/workflows/Test/badge.svg
+   :target: https://github.com/Unity-Billal-mesloub/fonttools/actions?query=workflow%3ATest
 .. |Coverage Status| image:: https://codecov.io/gh/fonttools/fonttools/branch/main/graph/badge.svg
    :target: https://codecov.io/gh/fonttools/fonttools
 .. |PyPI| image:: https://img.shields.io/pypi/v/fonttools.svg
